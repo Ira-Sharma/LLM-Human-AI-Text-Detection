@@ -1,5 +1,6 @@
 # LLM-Human-AI-Text-Detection
 Developed a model to differentiate human-written text from AI-generated content using BERT Transformer.
+
 For Training Dataset:
 
 1) Data provided in https://www.kaggle.com/competitions/llm-detect-ai-generated-text/ competetion was used.
